@@ -1,5 +1,8 @@
-
-# Hi there, I'm Mir Suhaib! 👋
+<h1 align="center">
+  <a href="#" color = "white">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MIR SUHAIB;&center=true&size=30">
+  </a>
+</h1>
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building web applications, exploring new technologies, and solving problems creatively.
 
