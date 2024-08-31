@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical) | ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=your-username&theme=radical) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meersuhaib191&theme=radical) | ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=meersuhaib191&theme=radical) |
 
 ---
 
