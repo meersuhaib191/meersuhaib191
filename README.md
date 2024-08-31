@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="#" color = "white">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MIR+SUHAIB;&center=true&size=30; color:teal">
+    <img lines=MIR+SUHAIB;&center=true&size=30;">
   </a>
 </h1>
 <p>
