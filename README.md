@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mir-suhaib-b3a57223b))
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/LoST_iN_01?t=zrIjf7sJKo2l5049bRtyqQ&s=08)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer&logoColor=white)]([https://yourportfolio.com](https://meersuhaib191.github.io/my-portfolio-website/))
 
 ---
 
@@ -53,7 +53,14 @@ I love to build open-source projects and contribute to the developer community!
 
 ### 🌟 Projects I'm Proud Of
 
-- [Project Name 1](https://github.com/your-repo): A brief description of the project.
+- [LIBRARY MANAGEMENT SYSTEM]([https://github.com/your-repo](https://github.com/meersuhaib191/LIBRARYMANAGEMENT)): A comprehensive web-based library management system designed to streamline and automate library operations.This system provides a user-friendly interface for librarians, administrators, and patrons to manage and access library resources efficiently.
+                                Key Features:
+                                - User authentication and authorization for librarians, administrators, and patrons
+                                - Cataloging and searching of books, journals, and other library materials
+                                - Book borrowing and return management
+                                - Frontend: HTML, CSS, Bootstrap, JavaScript
+                                - Backend: PHP
+                                - Database: SQL
 - [Project Name 2](https://github.com/your-repo): A brief description of the project.
 
 ---
