@@ -1,30 +1,22 @@
+# Hi there, I'm Mir Suhaib! 👋
 
-<h1 align="center">
-  <a href="#" color = "white">
-    <img lines=MIR+SUHAIB;&center=true&size=30;">
-  </a>
-</h1>
-<p>
-    <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="250" />
-    I am a passionate Computer Student from Kashmir. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://maqsoodhussain.github.io" target="_blank">contact me</a>.
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
+![Header Image](https://example.com/your-header-image.png)
 
-<br>
-<div align="center">
+### 💼 About Me
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+I'm a passionate developer who loves coding in JavaScript, Python, and exploring new technologies.
 
-</div>
+### 🚀 Skills
 
- <br>
- <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- Add more badges as needed -->
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meersuhaib191&show_icons=true&theme=radical)
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
