@@ -1,5 +1,3 @@
-<!-- Header -->
-![Welcome Banner](https://example.com/your-header-image.png)
 
 # Hi there, I'm Mir Suhaib! 👋
 
@@ -19,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 ### 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meersuhaib191&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meersuhaib191&layout=compact&theme=radical) |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meersuhaib191&theme=radical) | ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=meersuhaib191&theme=radical) |
 
@@ -51,7 +49,7 @@ I love to build open-source projects and contribute to the developer community!
 
 ---
 
-### 🌟 Projects I'm Proud Of
+### 🌟 Projects 
 
 - [LIBRARY MANAGEMENT SYSTEM](http://lm.free.nf): A comprehensive web-based library management system designed to streamline and automate library operations.This system provides a user-friendly interface for librarians, administrators, and patrons to manage and access library resources efficiently.
                                 Key Features:
@@ -61,8 +59,6 @@ I love to build open-source projects and contribute to the developer community!
                                 - Frontend: HTML, CSS, Bootstrap, JavaScript
                                 - Backend: PHP
                                 - Database: SQL
-- [Project Name 2](https://github.com/your-repo): A brief description of the project.
 
 ---
 
-![Footer Image](https://example.com/your-footer-image.png)
