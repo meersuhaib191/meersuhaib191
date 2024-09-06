@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 - Advanced JavaScript Techniques
 - Modern PHP Frameworks
 - Progressive Web Apps (PWAs)
+- React JS
 
 ### 🌐 Connect with Me
 
@@ -46,9 +47,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 ### 🛠️ Tools I Use
 
-- **Code Editor:** Visual Studio Code, Sublime Text
+- **Code Editor:** Visual Studio Code, Anaconda
 - **Version Control:** Git, GitHub
-- **Design:** Figma, Adobe XD
+- **Design:** Figma, Adobe XD , Canva
 
 ### 🎉 Fun Fact
 
