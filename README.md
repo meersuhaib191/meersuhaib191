@@ -30,7 +30,7 @@
 
 ### 💼 Build Status
 
-![Build Status](https://img.shields.io/github/commit-activity/t/meersuhaib191/my-portfolio-website/ci.yml?branch=main)
+![Build Status](https://img.shields.io/github/commit-activity/t/meersuhaib191/Hostel-Management-System/ci.yml?branch=main)
 
 ---
 
