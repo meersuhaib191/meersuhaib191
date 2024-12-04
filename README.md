@@ -45,14 +45,11 @@
 - React JS
 
 ---
-
 ### 🌐 Connect with Me
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mir-suhaib-b3a57223b)
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/LoST_iN_01?t=zrIjf7sJKo2l5049bRtyqQ&s=08)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer&logoColor=white)](https://meersuhaib191.github.io/my-portfolio-website/)
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mir-suhaib-b3a57223b)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/LoST_iN_01?t=zrIjf7sJKo2l5049bRtyqQ&s=08)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=internet-explorer&logoColor=white)](https://meersuhaib191.github.io/my-portfolio-website/)
 
 ---
 
