@@ -70,4 +70,28 @@ I love to build open-source projects and contribute to the developer community!
 
 ---
 
+- [HOSTEL EASE]: A comprehensive web-based hostel management system designed to streamline and automate hostel operations. Built using HTML, CSS, PHP, Bootstrap, JavaScript, and SQL, this system provides a user-friendly interface for administrators, staff, and residents to manage and access hostel resources efficiently.
+
+Key Features:
+
+User authentication and authorization for administrators, staff, and residents
+
+Room allocation and management for students 
+
+Responsive design for accessibility on various devices
+
+
+Tech Stack:
+
+Frontend: HTML, CSS, Bootstrap, JavaScript
+
+Backend: PHP
+
+Database: SQL
+
+
+Features:
+
+User authentication, data validation, CRUD operations, real-time notifications, and search functionality.
+
 FOLLOW FOR MORE ....
