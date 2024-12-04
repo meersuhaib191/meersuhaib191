@@ -30,7 +30,8 @@
 
 ### 💼 Build Status
 
-![Build Status](https://img.shields.io/github/commit-activity/:interval/meersuhaib191/meersuhaib191)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/meersuhaib191/meersuhaib191)
+
 
 ---
 
