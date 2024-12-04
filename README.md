@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -31,9 +32,7 @@
 
 ### 💼 Build Status
 
-<p align="center">
-  ![Build Status](https://img.shields.io/github/actions/workflow/status/meersuhaib191/my-portfolio-website/ci.yml?branch=main)
-</p>
+![Build Status](https://img.shields.io/github/actions/workflow/status/meersuhaib191/my-portfolio-website/ci.yml?branch=main)
 
 ---
 
