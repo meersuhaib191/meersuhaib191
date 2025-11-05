@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hey there, I'm <a href="https://linkedin.com/in/meersuhaib191" target="_blank">Mir Suhaib</a>!</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=008080&center=true&vCenter=true&width=550&lines=Final-year+Computer+Science+Student;Machine+Learning+%26+Data+Science+Enthusiast;Full-Stack+Developer;AI+Engineer+in+the+Making"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=008080&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mir+Suhaib+👋"/>
 </p>
 
 <h3 align="center">🚀 Passionate about Artificial Intelligence, Machine Learning, and Data Science</h3>
