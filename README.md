@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=008080&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mir+Suhaib+👋"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=300&color=008080&center=true&vCenter=true&width=600&lines=Hey+there+👋"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=500&color=008080&center=true&vCenter=true&width=600&lines=I'm+Mir+Suhaib"/>
+</h1>
 <h3 align="center">🚀 Passionate about Artificial Intelligence, Machine Learning, and Data Science</h3>
 
 ---
