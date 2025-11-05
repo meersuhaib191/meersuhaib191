@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MIR+SUHAIB;Computer+Science+and+Engineering+Student;Machine+Learning+%7C+Data+Science+Enthusiast;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MIR+SUHAIB;Computer+Science+and+Engineering+Student;&center=true&size=30">
   </a>
 </h1>
 
