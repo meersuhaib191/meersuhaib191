@@ -50,10 +50,10 @@
 #### 🧠 [SmartHire – AI Recruitment Assistant](#)
 Developing an AI-based hiring assistant using **Python, React, and Scikit-learn** for automated candidate evaluation and intelligent screening.
 
-#### 🏫 [Hostel Ease](https://meersuhaib191.github.io/hostel-ease)
+#### 🏫 [Hostel Ease](#)
 A responsive hostel management web app built using **PHP, Bootstrap, JavaScript, and SQL** to automate hostel operations.
 
-#### 📚 [Library Management System](http://lm.free.nf)
+#### 📚 [Library Management System](#)
 A web-based platform for managing library resources, featuring **user authentication**, **catalog search**, and **book tracking**.
 
 #### 📈 [Student Performance Prediction](#)
