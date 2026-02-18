@@ -77,7 +77,7 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Featured  Projects  
 
 <details>
   <summary><b>🔹 SmartHire — AI-Driven Recruitment Application (In Progress)</b></summary>
