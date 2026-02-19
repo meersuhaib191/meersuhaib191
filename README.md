@@ -101,7 +101,7 @@
 
 ---
 
-### 🏆 Certifications  
+### 🏆  Certifications  
 - 🎖️ **Data Science Foundations** — Great Learning *(Credential ID: MKJJRYME)*  
 - 📘 **Getting Started with Microsoft Excel** — Coursera *(Credential ID: GK8L8X80I80)*  
 
