@@ -23,7 +23,7 @@
 ---
 
 ### 🧰 Tech  Stack
-
+ 
 #### 💻 Programming & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
