@@ -118,6 +118,21 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  
+  <br>
+  
+  <img src="assets/github-snake.svg" width="100%">
+  
+  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/maqsoodhussain/)
+  [![ForTheBadge powered-by-black-magic](http://ForTheBadge.com/images/badges/powered-by-black-magic.svg)](https://thegreattech.tech)
+  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://mca.free.nf)
+  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/maqsoodhussain)
+  [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/maqsoodhussain)
+  [![ForTheBadge not-a-bug-a-feature](http://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg)](https://thegreattech.tech)
+</div>
+
 ### ✨ Fun Fact  
 > 💬 "I believe AI is not just the future — it’s the present, and I’m excited to be part of it!"  
 
