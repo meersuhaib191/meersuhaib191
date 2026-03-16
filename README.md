@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠  About Me   
+### 🧠 About Me   
 🎓 **B.Tech in Computer Science & Engineering** — University of Kashmir (CGPA: 7.25)  
 🌍 Based in ** Srinagar, Jammu and Kashmir, India**  
 💡 Interested in **Data Analysis, Machine Learning, and AI-driven solutions**  
